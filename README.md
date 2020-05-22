@@ -23,7 +23,7 @@
 ## Citation
     @inproceedings{msibrahiCVPR20segmentcorrectionnet,
       author    = {Mostafa S. Ibrahim and Arash Vahdat and Mani Ranjbar and William G. Macready},
-      title     = {Semi-Supervised Semantic Image Segmentation With Self-Correcting Networks},
+      title     = {Semi-Supervised Semantic Image Segmentation With Self-Correcting Networks.},
       booktitle = {2020 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
       year      = {2020}
     }
