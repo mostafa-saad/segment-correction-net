@@ -15,7 +15,7 @@
 * Several scripts to prepare the data to be saved/loaded from the ancilary model
 
 ## Model
-<img src="https://github.com/mostafa-saad/segment-correction-net/blob/master/img/fig1.png" alt="Figure 1" height="400" >
+<img src="https://github.com/mostafa-saad/segment-correction-net/blob/master/img/final.jpg" alt="Figure 1" height="400" >
 
 ## Links
 * For [Slides - with Intro / Math derivations](https://docs.google.com/presentation/d/1kGIuZ8c07k8mUvd-pDpWxPVQmcNEXpBDNDZZl-VM5dU/edit?usp=sharing)
