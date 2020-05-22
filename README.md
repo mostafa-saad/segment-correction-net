@@ -15,7 +15,10 @@
 * Several scripts to prepare the data to be saved/loaded from the ancilary model
 
 ## Model
+Data Setup:
 <img src="https://github.com/mostafa-saad/segment-correction-net/blob/master/img/data.png" alt="Figure 1" height="400" >
+
+Model Big Picture
 <img src="https://github.com/mostafa-saad/segment-correction-net/blob/master/img/final.jpg" alt="Figure 1" height="400" >
 
 ## Links
