@@ -22,7 +22,7 @@
 <img src="https://github.com/mostafa-saad/segment-correction-net/blob/master/img/final.jpg" alt="Figure 1" height="400" >
 
 ## Links
-* For detailed [Slides](https://docs.google.com/presentation/d/1kGIuZ8c07k8mUvd-pDpWxPVQmcNEXpBDNDZZl-VM5dU/edit?usp=sharing)
+* For detailed [Slides](https://docs.google.com/presentation/d/1kGIuZ8c07k8mUvd-pDpWxPVQmcNEXpBDNDZZl-VM5dU/edit?usp=sharing) / [Slides pdf](https://github.com/mostafa-saad/segment-correction-net/blob/master/img/slides.pdf)
 
 ## Citation
     @inproceedings{msibrahiCVPR20segmentcorrectionnet,
