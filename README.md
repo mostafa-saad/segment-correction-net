@@ -1,4 +1,4 @@
-## [Semi-Supervised Semantic Image Segmentation With Self-Correcting Networks. Mostafa S. Ibrahim, Arash Vahdat, Mani Ranjbar, William G. Macready.  IEEE Computer Vision and Pattern Recognition 2020](https://arxiv.org/pdf/1811.07073.pdf)
+## [Semi-Supervised Semantic Image Segmentation With Self-Correcting Networks. Mostafa S. Ibrahim, Arash Vahdat, Mani Ranjbar, William G. Macready.  IEEE Computer Vision and Pattern Recognition 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ibrahim_Semi-Supervised_Semantic_Image_Segmentation_With_Self-Correcting_Networks_CVPR_2020_paper.pdf)
 
 ## Contents
 0. [Code](#code)
