@@ -22,6 +22,7 @@
 <img src="https://github.com/mostafa-saad/segment-correction-net/blob/master/img/final.jpg" alt="Figure 1" height="400" >
 
 ## Links
+* 15-min presentation in [English](https://www.youtube.com/watch?v=lRA1KnkFibs) / [Arabic](https://www.youtube.com/watch?v=FlzUMWKkoHk)
 * For detailed [Slides](https://docs.google.com/presentation/d/1kGIuZ8c07k8mUvd-pDpWxPVQmcNEXpBDNDZZl-VM5dU/edit?usp=sharing) / [Slides pdf](https://github.com/mostafa-saad/segment-correction-net/blob/master/img/slides.pdf)
 
 ## Citation
